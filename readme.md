@@ -33,3 +33,5 @@ build/bundle_plugins
 
 ## 安装包下载地址
 链接: https://pan.baidu.com/s/1f65r32-i2C2OdQDDzLcwjw?pwd=uqfk
+
+![](screenshot.png)
